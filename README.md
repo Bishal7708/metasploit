@@ -18,3 +18,13 @@ for beginners for any issue comment on github
 4.bash metasploit_by_bishal.sh
 
 Then metasploit automatically install in your terminal 
+
+
+
+
+
+
+
+
+
+DONATE US IN BITCOIN :-- bitcoincash:13Vh3qDDtXW8Rf6mbdPi3tLz2PgQRYBt5z
