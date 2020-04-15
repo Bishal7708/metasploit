@@ -7,7 +7,7 @@ for beginners for any issue comment on github
 ![](https://github.com/Bishal7708/metasploit/blob/master/Screenshot_2020-04-15-10-06-18-422_com.google.android.googlequicksearchbox.png)
 
 
-#fololw this steps to install 
+# Fololw this steps to install in your terminal ♥️
 
 $ pkg install git 
 
