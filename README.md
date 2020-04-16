@@ -11,7 +11,7 @@ for beginners for any issue comment on github
 
 $ pkg install git 
 
-$ git clone https://github.com/Bishal7708/metasploit.git
+$ git clone https://github.com/BishalMondal2/metasploit.git
 
 $ cd metasploit 
 
